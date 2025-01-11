@@ -14,7 +14,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`font-lato antialiased bg-background`}
+        className={`font-lato antialiased bg-background text-white overflow-hidden`}
       >
         {children}
       </body>
