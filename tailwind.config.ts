@@ -11,6 +11,7 @@ export default {
     extend: {
       colors: {
         "background": "#1B1B1B",
+        "primary" : "#4F80EF"
       },
       fontFamily: {
         "lato" : "lato",
