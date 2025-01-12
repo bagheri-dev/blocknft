@@ -18,10 +18,10 @@ const HeroSection = () => {
                 </div>
             </div>
             <div className="absolute top-0">
-                <Image src={"/svg/shaip.svg"} alt="shaip" width={500} height={500} />
+                <Image src={"/svg/layout.svg"} alt="layout" width={500} height={500} />
             </div>
             <div className="absolute top-0 right-44">
-                <Image src={"/svg/shaip-center.svg"} alt="shaip" width={500} height={500} />
+                <Image src={"/svg/layout-center.svg"} alt="layout" width={500} height={500} />
             </div>
         </section>
     );
